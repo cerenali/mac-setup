@@ -5,6 +5,9 @@
 - reverse trackpad scroll direction
 - enable three-finger drag
 - date and time: show date
+- sound: show volume in menu bar
+- dock: move to left, show/hide automatically
+  - GET RID OF ALL THE EXTRA ICONS
 
 ### software to install
 
