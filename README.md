@@ -13,6 +13,7 @@
 
 - Spectacle: https://www.spectacleapp.com
 - iTerm 2: https://www.iterm2.com
+   - zsh (oh-my-zsh): https://github.com/robbyrussell/oh-my-zsh
 - Spotify: https://www.spotify.com/us/download/mac/
 - Firefox or Chrome (i keep flip-flopping)
    - uBlock Origin extension
