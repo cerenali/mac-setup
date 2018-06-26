@@ -21,4 +21,5 @@
 - Firefox or Chrome (i keep flip-flopping)
    - uBlock Origin extension
    - Tabbo (if Chrome)
+   - OneTab
    
