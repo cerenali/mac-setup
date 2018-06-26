@@ -9,6 +9,7 @@
   - GET RID OF ALL THE EXTRA ICONS
 - night shift: turn on (sunset to sunrise)
 - Finder > preferences > advanced > "show all filename extensions"
+- keyboard > text > turn off "correct spelling automatically," "capitalize words automatically," "add period with double-space"
 
 ### software to install
 
