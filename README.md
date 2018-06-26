@@ -2,16 +2,18 @@
 
 ### system preferences
 
-- reverse trackpad scroll direction
-- enable three-finger drag
+- enable three-finger drag (accessibility > trackpad options > enable dragging)
 - date and time: show date
 - sound: show volume in menu bar
 - dock: move to left, show/hide automatically
   - GET RID OF ALL THE EXTRA ICONS
+- night shift: turn on (sunset to sunrise)
 
 ### software to install
 
-- f.lux: https://justgetflux.com
 - Spectacle: https://www.spectacleapp.com
-- Firefox: https://www.mozilla.org/en-US/firefox/new
 - iTerm 2: https://www.iterm2.com
+- Spotify: https://www.spotify.com/us/download/mac/
+- Firefox or Chrome (i keep flip-flopping)
+   - uBlock Origin extension
+   - Tabbo (if Chrome)
