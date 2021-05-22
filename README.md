@@ -1,6 +1,6 @@
 # mac-setup
 
-### system preferences
+### configuration
 
 - enable three-finger drag (accessibility > trackpad options > enable dragging)
 - date and time: show date
@@ -10,17 +10,29 @@
 - night shift: turn on (sunset to sunrise)
 - Finder > preferences > advanced > "show all filename extensions"
 - keyboard > text > turn off "correct spelling automatically," "capitalize words automatically," "add period with double-space"
+- .zshrc
+- .vimrc
 
 ### software to install
 
-- Spectacle: https://www.spectacleapp.com
+- Rectangle: https://rectangleapp.com
 - iTerm 2: https://www.iterm2.com
    - zsh (oh-my-zsh): https://github.com/robbyrussell/oh-my-zsh
    - set up option-arrow word skip: https://coderwall.com/p/h6yfda/use-and-to-jump-forwards-backwards-words-in-iterm-2-on-os-x
-   - set color scheme to Monokai Remastered: https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/schemes/Monokai%20Remastered.itermcolors
 - Spotify: https://www.spotify.com/us/download/mac/
-- Firefox or Chrome (i keep flip-flopping)
+- Chrome
    - uBlock Origin extension
-   - Tabbo (if Chrome)
+   - Tabbo (set up keybindings: `ctrl` + `shift` + `left`/`right` to move tabs, `ctrl` + `shift` + `up`/`down` to pop or push tabs)
    - OneTab
-   
+ - Password manager
+ - Homebrew
+ - Obsidian
+ - Things 3
+ 
+ ### work
+ 
+ - Slack
+ - pyenv
+ - Xcode
+ - Android Studio
+ - Webstorm, Pycharm
