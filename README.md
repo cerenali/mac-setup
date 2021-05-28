@@ -1,6 +1,6 @@
 # mac setup
 
-test branch for PR stats!
+branching to trigger the workflow
 
 ### configuration
 
